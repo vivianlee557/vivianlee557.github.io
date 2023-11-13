@@ -38,7 +38,7 @@ h1 {
 
 h2 {
   font-family: 'Karla', sans-serif;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -60,7 +60,7 @@ img {
 
 .bio {
 color: #ffffff;
-font-size: 26px;
+font-size: 30px;
 font-family: 'Inconsolata', sans-serif;
 }
 
@@ -75,7 +75,7 @@ font-family: 'Inconsolata', sans-serif;
   border: 1px solid #ffffff;
   cursor: pointer;
   color: #ffffff;
-  font-size: 22px;
+  font-size: 26px;
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
@@ -113,7 +113,7 @@ font-family: 'Inconsolata', sans-serif;
 .mins {
   display: inline-block;
   font-family: 'Inconsolata', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
@@ -124,7 +124,7 @@ font-family: 'Inconsolata', sans-serif;
 
 .description {
   font-family: 'Inconsolata', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
