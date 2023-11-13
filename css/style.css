@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffa500;
+  background-color: #023e8a;
   text-align: left;
 }
 header {
@@ -82,7 +82,7 @@ font-family: 'Inconsolata', sans-serif;
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#023e8a;
 }
 
 .myButton:active {
