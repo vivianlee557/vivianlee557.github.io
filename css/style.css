@@ -103,6 +103,10 @@ font-family: 'Inconsolata', sans-serif;
 
 }
 
+a {
+  color: #023e8a;
+}
+
 .time {
   padding-left: 10px;
   padding-top: 10px;
